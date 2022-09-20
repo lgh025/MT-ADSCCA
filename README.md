@@ -1,5 +1,5 @@
 # MT-ADSCCA
-The source code is an implementation of our method described in the paper "Adaptive Deep Sparse Canonical Correlation-based Multi-omics Gene Selection for Cancer Survival Analysis". 
+The source code is an implementation of our method described in the paper "Multi-task Adaptive Deep Sparse Canonical Correlation Analysis for Multi-omics Cancer Survival prediction". 
 
 
 --Dependence
